@@ -1,7 +1,7 @@
 {
- "variantName"        : "Варинат 3",
+ "variantName"        : "Варинат 19",
  "variantDescription" : "",
- "executionTimeInSeconds" : 60,
+ "executionTimeInSeconds" : 12600,
  "countTask" : 20,
  "variantImages" : [{"variantSmallImg"  : "",
                           "variantMiddleImg" : "",
@@ -12,8 +12,26 @@
                           "variantBigImg"    : ""
                            
                          }],
-  "tasks" : [
-    "",
-    "",
-    ""]
+  "tasks": [
+        "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/JSONVariants/Variant19/task1/ege.RussianLang_Variant19_task1.json",
+        "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/JSONVariants/Variant19/task2/ege.RussianLang_Variant19_task2.json",
+        "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/JSONVariants/Variant19/task3/ege.RussianLang_Variant19_task3.json",
+        "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/JSONVariants/Variant19/task4/ege.RussianLang_Variant19_task4.json",
+        "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/JSONVariants/Variant19/task5/ege.RussianLang_Variant19_task5.json",
+        "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/JSONVariants/Variant19/task6/ege.RussianLang_Variant19_task6.json",
+        "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/JSONVariants/Variant19/task7/ege.RussianLang_Variant19_task7.json",
+        "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/JSONVariants/Variant19/task8/ege.RussianLang_Variant19_task8.json",
+        "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/JSONVariants/Variant19/task9/ege.RussianLang_Variant19_task9.json",
+        "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/JSONVariants/Variant19/task10/ege.RussianLang_Variant19_task10.json",
+        "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/JSONVariants/Variant19/task11/ege.RussianLang_Variant19_task11.json",
+        "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/JSONVariants/Variant19/task12/ege.RussianLang_Variant19_task12.json",
+        "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/JSONVariants/Variant19/task13/ege.RussianLang_Variant19_task13.json",
+        "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/JSONVariants/Variant19/task14/ege.RussianLang_Variant19_task14.json",
+        "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/JSONVariants/Variant19/task15/ege.RussianLang_Variant19_task15.json",
+        "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/JSONVariants/Variant19/task16/ege.RussianLang_Variant19_task16.json",
+        "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/JSONVariants/Variant19/task17/ege.RussianLang_Variant19_task17.json",
+        "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/JSONVariants/Variant19/task18/ege.RussianLang_Variant19_task18.json",
+        "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/JSONVariants/Variant19/task19/ege.RussianLang_Variant19_task19.json",
+        "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/JSONVariants/Variant19/task20/ege.RussianLang_Variant19_task20.json"
+    ]
 }
