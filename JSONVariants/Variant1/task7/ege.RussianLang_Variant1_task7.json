@@ -18,5 +18,5 @@
     "chooseAnswerFromPicker": false,
     "arrayExpectedAnswerForPicker": [],
     "actionDirection": "Введите цифрами без пробелов и иных знаков",
-    "arrURLImageForTask" : ["потом добавить сюда URL картинки, от задания 7"]
+    "arrURLImageForTask" : ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/JSONVariants/Variant1/task7/img/IMGEGE.RusLang.Variant1.Task7_Img1.png"]
 }
