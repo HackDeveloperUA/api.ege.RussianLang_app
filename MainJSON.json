@@ -1,46 +1,344 @@
 {
-  "variants": [
-    {
-      "variantName"        : "Вариант 1",
-      "variantDescription" : "",
-      "linkOnFullVariant"  : "",
-      "variantImages" : [{"variantSmallImg"  : "",
-                          "variantMiddleImg" : "",
-                          "variantBigImg"    : ""
-                         },
-                         {"variantSmallImg"  : "",
-                          "variantMiddleImg" : "",
-                          "variantBigImg"    : ""
-                           
-                         }]
-    },
-    {
-      "variantName"        : "Вариант 2",
-      "variantDescription" : "",
-      "linkOnFullVariant"  : "",
-      "variantImages" : [{"variantSmallImg"  : "",
-                          "variantMiddleImg" : "",
-                          "variantBigImg"    : ""
-                         },
-                         {"variantSmallImg"  : "",
-                          "variantMiddleImg" : "",
-                          "variantBigImg"    : ""
-                           
-                         }]
-    },
-    {
-      "variantName"        : "Вариант 3",
-      "variantDescription" : "",
-      "linkOnFullVariant"  : "",
-      "variantImages" : [{"variantSmallImg"  : "",
-                          "variantMiddleImg" : "",
-                          "variantBigImg"    : ""
-                         },
-                         {"variantSmallImg"  : "",
-                          "variantMiddleImg" : "",
-                          "variantBigImg"    : ""
-                           
-                         }]
-    }
-  ]
+    "variants": [
+        {
+            "variantName": "Вариант 1",
+            "variantDescription": "",
+            "linkOnFullVariant": "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/JSONVariants/Variant1/ege.RussianLang_Variant1.json",
+            "variantImages": [
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                },
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                }
+            ]
+        },
+        {
+            "variantName": "Вариант 2",
+            "variantDescription": "",
+            "linkOnFullVariant": "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/JSONVariants/Variant2/ege.RussianLang_Variant2.json",
+            "variantImages": [
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                },
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                }
+            ]
+        },
+        {
+            "variantName": "Вариант 3",
+            "variantDescription": "",
+            "linkOnFullVariant": "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/JSONVariants/Variant3/ege.RussianLang_Variant3.json",
+            "variantImages": [
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                },
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                }
+            ]
+        },
+        {
+            "variantName": "Вариант 4",
+            "variantDescription": "",
+            "linkOnFullVariant": "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/JSONVariants/Variant4/ege.RussianLang_Variant4.json",
+            "variantImages": [
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                },
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                }
+            ]
+        },
+        {
+            "variantName": "Вариант 5",
+            "variantDescription": "",
+            "linkOnFullVariant": "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/JSONVariants/Variant5/ege.RussianLang_Variant5.json",
+            "variantImages": [
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                },
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                }
+            ]
+        },
+        {
+            "variantName": "Вариант 6",
+            "variantDescription": "",
+            "linkOnFullVariant": "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/JSONVariants/Variant6/ege.RussianLang_Variant6.json",
+            "variantImages": [
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                },
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                }
+            ]
+        },
+        {
+            "variantName": "Вариант 7",
+            "variantDescription": "",
+            "linkOnFullVariant": "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/JSONVariants/Variant7/ege.RussianLang_Variant7.json",
+            "variantImages": [
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                },
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                }
+            ]
+        },
+        {
+            "variantName": "Вариант 8",
+            "variantDescription": "",
+            "linkOnFullVariant": "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/JSONVariants/Variant8/ege.RussianLang_Variant8.json",
+            "variantImages": [
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                },
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                }
+            ]
+        },
+        {
+            "variantName": "Вариант 9",
+            "variantDescription": "",
+            "linkOnFullVariant": "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/JSONVariants/Variant9/ege.RussianLang_Variant9.json",
+            "variantImages": [
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                },
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                }
+            ]
+        },
+        {
+            "variantName": "Вариант 10",
+            "variantDescription": "",
+            "linkOnFullVariant": "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/JSONVariants/Variant10/ege.RussianLang_Variant10.json",
+            "variantImages": [
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                },
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                }
+            ]
+        },
+        {
+            "variantName": "Вариант 11",
+            "variantDescription": "",
+            "linkOnFullVariant": "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/JSONVariants/Variant11/ege.RussianLang_Variant11.json",
+            "variantImages": [
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                },
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                }
+            ]
+        },
+        {
+            "variantName": "Вариант 12",
+            "variantDescription": "",
+            "linkOnFullVariant": "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/JSONVariants/Variant12/ege.RussianLang_Variant12.json",
+            "variantImages": [
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                },
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                }
+            ]
+        },
+        {
+            "variantName": "Вариант 13",
+            "variantDescription": "",
+            "linkOnFullVariant": "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/JSONVariants/Variant13/ege.RussianLang_Variant13.json",
+            "variantImages": [
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                },
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                }
+            ]
+        },
+        {
+            "variantName": "Вариант 14",
+            "variantDescription": "",
+            "linkOnFullVariant": "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/JSONVariants/Variant14/ege.RussianLang_Variant14.json",
+            "variantImages": [
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                },
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                }
+            ]
+        },
+        {
+            "variantName": "Вариант 15",
+            "variantDescription": "",
+            "linkOnFullVariant": "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/JSONVariants/Variant15/ege.RussianLang_Variant15.json",
+            "variantImages": [
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                },
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                }
+            ]
+        },
+        {
+            "variantName": "Вариант 16",
+            "variantDescription": "",
+            "linkOnFullVariant": "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/JSONVariants/Variant16/ege.RussianLang_Variant16.json",
+            "variantImages": [
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                },
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                }
+            ]
+        },
+        {
+            "variantName": "Вариант 17",
+            "variantDescription": "",
+            "linkOnFullVariant": "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/JSONVariants/Variant17/ege.RussianLang_Variant17.json",
+            "variantImages": [
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                },
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                }
+            ]
+        },
+        {
+            "variantName": "Вариант 18",
+            "variantDescription": "",
+            "linkOnFullVariant": "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/JSONVariants/Variant18/ege.RussianLang_Variant18.json",
+            "variantImages": [
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                },
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                }
+            ]
+        },
+        {
+            "variantName": "Вариант 19",
+            "variantDescription": "",
+            "linkOnFullVariant": "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/JSONVariants/Variant14/ege.RussianLang_Variant19.json",
+            "variantImages": [
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                },
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                }
+            ]
+        },
+        {
+            "variantName": "Вариант 20",
+            "variantDescription": "",
+            "linkOnFullVariant": "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/JSONVariants/Variant20/ege.RussianLang_Variant20.json",
+            "variantImages": [
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                },
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                }
+            ]
+        }
+    ]
 }
