@@ -1,0 +1,46 @@
+{
+  "variants": [
+    {
+      "variantName"        : "Вариант 1",
+      "variantDescription" : "",
+      "linkOnFullVariant"  : "",
+      "variantImages" : [{"variantSmallImg"  : "",
+                          "variantMiddleImg" : "",
+                          "variantBigImg"    : ""
+                         },
+                         {"variantSmallImg"  : "",
+                          "variantMiddleImg" : "",
+                          "variantBigImg"    : ""
+                           
+                         }]
+    },
+    {
+      "variantName"        : "Вариант 2",
+      "variantDescription" : "",
+      "linkOnFullVariant"  : "",
+      "variantImages" : [{"variantSmallImg"  : "",
+                          "variantMiddleImg" : "",
+                          "variantBigImg"    : ""
+                         },
+                         {"variantSmallImg"  : "",
+                          "variantMiddleImg" : "",
+                          "variantBigImg"    : ""
+                           
+                         }]
+    },
+    {
+      "variantName"        : "Вариант 3",
+      "variantDescription" : "",
+      "linkOnFullVariant"  : "",
+      "variantImages" : [{"variantSmallImg"  : "",
+                          "variantMiddleImg" : "",
+                          "variantBigImg"    : ""
+                         },
+                         {"variantSmallImg"  : "",
+                          "variantMiddleImg" : "",
+                          "variantBigImg"    : ""
+                           
+                         }]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+    "taskName": "Задание 12",
+    "taskDefinition": "Укажите все цифры, на месте которых пишется буква И.",
+    "mainText": "\n\nпол..щая (огород)\nвид..щий (насквозь)\n(гуси) щипл..т (траву)\nраду..щийся (гостю)\nкол..щий (предмет)",
+    "noValidAnswerTotheRecord": false,
+    "pictureForNoValidAnswer": "",
+    "primaryScore": 1,
+    "onlyOneCorrectAnswer": false,
+    "expectedAnswer": "Напр: 5241",
+    "answers": [
+        "1",
+        "3",
+        "4",
+        "5"
+    ],
+    "addPictureInTop": false,
+    "chooseAnswerFromPicker": false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection": "Введите все цифры, на месте которых пишется буква И",
+    "arrURLImageForTask": []
+}

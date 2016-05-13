@@ -1,0 +1,18 @@
+{
+    "taskName": "Задание 4",
+    "taskDefinition": "В одном из приведённых ниже слов допущена ошибка в постановке ударения: НЕВЕРНО выделена буква, обозначающая ударный гласный звук. Выпишите это слово.",
+    "mainText": "рЕмень\nдождалАсь\nукраИнский\nзаселенА\nчЕрпать",
+    "noValidAnswerTotheRecord": false,
+    "pictureForNoValidAnswer": "",
+    "primaryScore": 1,
+    "onlyOneCorrectAnswer": true,
+    "expectedAnswer": "Напр: черпать",
+    "answers": [
+        "ремень"
+    ],
+    "addPictureInTop": false,
+    "chooseAnswerFromPicker": false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection": "Введите слово",
+    "arrURLImageForTask" : []
+}

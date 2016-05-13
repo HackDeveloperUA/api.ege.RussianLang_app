@@ -1,0 +1,22 @@
+{
+    "taskName": "Задание 1",
+    "taskDefinition": "Впишите слово, в котором на месте пропуска пишется буква Я",
+    "mainText": "",
+    "noValidAnswerTotheRecord": false,
+    "pictureForNoValidAnswer": "",
+    "primaryScore": 1,
+    "onlyOneCorrectAnswer": false,
+    "expectedAnswer": "Напр: Напоминал",
+    "answers": [
+        "память",
+        "напоминал",
+        "памятный"
+    ],
+    "addPictureInTop": false,
+    "chooseAnswerFromPicker": false,
+    "arrayExpectedAnswerForPicker": [
+        "Ссылка на картинку",
+        "Ссылка на картинку"
+    ],
+    "actionDirection": "Введите без пробелов номера предложений"
+}

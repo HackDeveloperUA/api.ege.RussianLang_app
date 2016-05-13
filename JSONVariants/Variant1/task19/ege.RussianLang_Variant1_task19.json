@@ -1,0 +1,22 @@
+{
+    "taskName": "Задание 19",
+    "taskDefinition": "Расставьте знаки препинания: укажите все цифры, на месте которых в предложении должны стоять запятые.",
+    "mainText": "\n\nИзвестно (1) что счастливые не наблюдают часов (2) верно и другое (3) что и те (4) кто не наблюдает часов (5) уже счастливы.",
+    "noValidAnswerTotheRecord": false,
+    "pictureForNoValidAnswer": "",
+    "primaryScore": 1,
+    "onlyOneCorrectAnswer": false,
+    "expectedAnswer": "Напр: 683412",
+    "answers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+    ],
+    "addPictureInTop": false,
+    "chooseAnswerFromPicker": false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection": "Введите цифры, на месте которых в предложении должны стоять запятые",
+    "arrURLImageForTask": []
+}

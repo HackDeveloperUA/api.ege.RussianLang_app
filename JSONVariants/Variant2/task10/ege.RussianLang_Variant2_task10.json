@@ -1,0 +1,18 @@
+{
+    "taskName": "Задание 10",
+    "taskDefinition": "Выпишите слово, в котором на месте пропуска пишется буква Е.",
+    "mainText": "\n\nзапасл...вый\nнаходч...вый\nподмиг...вать\nландыш...вый\nподскак...вать",
+    "noValidAnswerTotheRecord": false,
+    "pictureForNoValidAnswer": "",
+    "primaryScore": 1,
+    "onlyOneCorrectAnswer": true,
+    "expectedAnswer": "Напр: мокрый",
+    "answers": [
+        "ландышевый"
+    ],
+    "addPictureInTop": false,
+    "chooseAnswerFromPicker": false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection": "Введите слово, вставив пропущенную букву",
+    "arrURLImageForTask": []
+}

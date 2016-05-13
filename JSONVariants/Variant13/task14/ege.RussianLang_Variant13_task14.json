@@ -1,0 +1,20 @@
+{
+    "taskName": "Задание 14",
+    "taskDefinition": "Укажите все цифры, на месте которых пишется НН.",
+    "mainText": "\n\nПеред нами расстилалось широкое поле, уката(1)ое некогда лихими тройками, а теперь донельзя выровне(2)ое дождями и заросшее некоше(3)ой высоче(4)ой травой",
+    "noValidAnswerTotheRecord": false,
+    "pictureForNoValidAnswer": "",
+    "primaryScore": 1,
+    "onlyOneCorrectAnswer": false,
+    "expectedAnswer": "Напр: 312",
+    "answers": [
+        "1",
+        "2",
+        "4"
+    ],
+    "addPictureInTop": false,
+    "chooseAnswerFromPicker": false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection": "Введите цифры без пробелов",
+    "arrURLImageForTask": []
+}

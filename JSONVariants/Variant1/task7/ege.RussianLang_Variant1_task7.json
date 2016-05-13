@@ -1,0 +1,22 @@
+{
+    "taskName": "Задание 7",
+    "taskDefinition": "Установите соответствие между предложениями и допущенными в них грамматическими ошибками: к каждой позиции первого столбца подберите соответствующую позицию из второго столбца.",
+    "mainText": "",
+    "noValidAnswerTotheRecord": false,
+    "pictureForNoValidAnswer": "",
+    "primaryScore": 1,
+    "onlyOneCorrectAnswer": false,
+    "expectedAnswer": "Напр: 53812",
+    "answers": [
+        "8",
+        "5",
+        "1",
+        "3",
+        "2"
+    ],
+    "addPictureInTop": false,
+    "chooseAnswerFromPicker": false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection": "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask" : ["потом добавить сюда URL картинки, от задания 7"]
+}

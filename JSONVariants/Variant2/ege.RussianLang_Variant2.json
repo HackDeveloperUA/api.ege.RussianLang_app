@@ -1,0 +1,19 @@
+{
+ "variantName"        : "Варинат 2",
+ "variantDescription" : "",
+ "executionTimeInSeconds" : 12600,
+ "countTask" : 24,
+ "variantImages" : [{"variantSmallImg"  : "",
+                          "variantMiddleImg" : "",
+                          "variantBigImg"    : ""
+                         },
+                         {"variantSmallImg"  : "",
+                          "variantMiddleImg" : "",
+                          "variantBigImg"    : ""
+                           
+                         }],
+  "tasks" : [
+    "",
+    "",
+    ""]
+}

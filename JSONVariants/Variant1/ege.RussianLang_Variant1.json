@@ -1,0 +1,19 @@
+{
+ "variantName"        : "Варинат 1",
+ "variantDescription" : "Русский язык. ЕГЭ 2016",
+ "executionTimeInSeconds" : 12600,
+ "countTask" : 24,
+ "variantImages" : [{"variantSmallImg"  : "",
+                          "variantMiddleImg" : "",
+                          "variantBigImg"    : ""
+                         },
+                         {"variantSmallImg"  : "",
+                          "variantMiddleImg" : "",
+                          "variantBigImg"    : ""
+                           
+                         }],
+  "tasks" : [
+    "",
+    "",
+    ""]
+}

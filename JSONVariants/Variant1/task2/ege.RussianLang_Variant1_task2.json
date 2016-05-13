@@ -1,0 +1,18 @@
+{
+    "taskName": "Задание 2",
+    "taskDefinition": "Какое из приведенных ниже слов (сочетаний слов) должно стоять на месте пропуска в третьем (3) предложении текста? Выпишите это слово (сочетание слов).",
+    "mainText": "1. cледовательно,\n2. однако\n3. таким образом,\n4. если\n5. неужели",
+    "noValidAnswerTotheRecord": false,
+    "pictureForNoValidAnswer": "",
+    "primaryScore": 1,
+    "onlyOneCorrectAnswer": true,
+    "expectedAnswer": "Напр: такимобразом",
+    "answers": [
+        "однако"
+    ],
+    "addPictureInTop": false,
+    "chooseAnswerFromPicker": false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection": "Выпишите словосочитания без пробелов",
+    "arrURLImageForTask" : []
+}

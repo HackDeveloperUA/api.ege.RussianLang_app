@@ -1,0 +1,20 @@
+{
+    "taskName": "Задание 17",
+    "taskDefinition": "Расставьте знаки препинания: укажите все цифры, на месте которых в предложениях должны стоять запятые.",
+    "mainText": "\n\nЛес тянется на много вёрст, много в нём хвои и (1) верно (2) достаточно зверья.\nНасекомоядная птица по своей прожорливости могла бы съесть сразу всех каких-нибудь там личинок (3) однако (4) её возможности ограничены самой природой.",
+    "noValidAnswerTotheRecord": false,
+    "pictureForNoValidAnswer": "",
+    "primaryScore": 1,
+    "onlyOneCorrectAnswer": false,
+    "expectedAnswer": "Напр: 941",
+    "answers": [
+        "1",
+        "2",
+        "3"
+    ],
+    "addPictureInTop": false,
+    "chooseAnswerFromPicker": false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection": "Введите все цифры, на месте которых в предложении должны стоять запятые.",
+    "arrURLImageForTask": []
+}

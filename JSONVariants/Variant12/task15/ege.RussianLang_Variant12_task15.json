@@ -1,0 +1,19 @@
+{
+    "taskName": "Задание 15",
+    "taskDefinition": "Расставьте знаки препинания. Укажите номера предложений, в которых нужно поставить ОДНУ запятую.",
+    "mainText": "\n\n1. Лес пахнет сыростью и листвой и убаюкивает пением птиц.\n2. Что это за человек и какое нужно с ним обращение?\n3. К кормушке прилетали юркие синицы и наведывались красно-лиловые дятлы.\n4. Пляж оказался закрыт и нам пришлось искать новое место для купания.\n5. Листья срываются с деревьев кружатся и падают прямо под ноги.",
+    "noValidAnswerTotheRecord": false,
+    "pictureForNoValidAnswer": "",
+    "primaryScore": 1,
+    "onlyOneCorrectAnswer": false,
+    "expectedAnswer": "Напр: 52",
+    "answers": [
+        "4",
+        "5"
+    ],
+    "addPictureInTop": false,
+    "chooseAnswerFromPicker": false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection": "Введите цифры без пробелов",
+    "arrURLImageForTask": []
+}

@@ -1,0 +1,19 @@
+{
+    "taskName": "Задание 17",
+    "taskDefinition": "Расставьте знаки препинания: укажите все цифры, на месте которых в предложениях должны стоять запятые.",
+    "mainText": "\n\nВсё (1) казалось (2) ему удивительным и загадочным, а будущее непонятным. К концу дня солнце (3) казалось (4) истончилось.",
+    "noValidAnswerTotheRecord": false,
+    "pictureForNoValidAnswer": "",
+    "primaryScore": 1,
+    "onlyOneCorrectAnswer": false,
+    "expectedAnswer": "Напр: 14",
+    "answers": [
+        "3",
+        "4"
+    ],
+    "addPictureInTop": false,
+    "chooseAnswerFromPicker": false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection": "Введите цифры без пробелов",
+    "arrURLImageForTask": []
+}

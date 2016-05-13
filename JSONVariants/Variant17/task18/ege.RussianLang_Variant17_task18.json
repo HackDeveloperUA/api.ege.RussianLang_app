@@ -1,0 +1,18 @@
+{
+    "taskName": "Задание 18",
+    "taskDefinition": "Расставьте знаки препинания: укажите все цифры, на месте которых в предложении должны стоять запятые.",
+    "mainText": "\n\nВ своих пьесах Чехов создал образы людей (1) жизнь (2) которых (3) пришлась на переломный момент истории.",
+    "noValidAnswerTotheRecord": false,
+    "pictureForNoValidAnswer": "",
+    "primaryScore": 1,
+    "onlyOneCorrectAnswer": true,
+    "expectedAnswer": "Напр: 2",
+    "answers": [
+        "1"
+    ],
+    "addPictureInTop": false,
+    "chooseAnswerFromPicker": false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection": "Введите цифры без пробелов",
+    "arrURLImageForTask": []
+}

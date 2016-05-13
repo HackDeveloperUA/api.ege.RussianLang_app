@@ -1,0 +1,18 @@
+{
+    "taskName": "Задание 9",
+    "taskDefinition": "Определите ряд, в котором в обоих словах в приставке пропущена одна и та же буква. Выпишите эти слова, вставив пропущенную букву.",
+    "mainText": "\n\nне...бозримый, р...зместить\nпр...рожденный, пр...толстый\nни...послать, ра...продажа\nпр...следование, пр...станционный\nра...долье, ра...чертить",
+    "noValidAnswerTotheRecord": false,
+    "pictureForNoValidAnswer": "",
+    "primaryScore": 1,
+    "onlyOneCorrectAnswer": true,
+    "expectedAnswer": "Напр: идтивперед",
+    "answers": [
+        "ниспослатьраспродажа"
+    ],
+    "addPictureInTop": false,
+    "chooseAnswerFromPicker": false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection": "Введите эти слова, вставив пропущенную букву без пробелов",
+    "arrURLImageForTask": []
+}

@@ -1,0 +1,21 @@
+{
+    "taskName": "Задание 18",
+    "taskDefinition": "Расставьте знаки препинания: укажите все цифры, на месте которых в предложении должны стоять запятые.",
+    "mainText": "\n\nЕсли бы какие-нибудь вселенские диверсанты были посланы уничтожить всё живое на Земле (1) и превратить её в мёртвый камень (2) если бы они тщательно разработали эту свою операцию (3) они не могли бы действовать более разумно и коварно (4) чем действуют живущие на Земле люди (5) которые мнят себя друзьями природы.",
+    "noValidAnswerTotheRecord": false,
+    "pictureForNoValidAnswer": "",
+    "primaryScore": 1,
+    "onlyOneCorrectAnswer": false,
+    "expectedAnswer": "Напр: 2462",
+    "answers": [
+        "2",
+        "3",
+        "4",
+        "5"
+    ],
+    "addPictureInTop": false,
+    "chooseAnswerFromPicker": false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection": "Введите цифры, на месте которых в предложении должны стоять запятые",
+    "arrURLImageForTask": []
+}

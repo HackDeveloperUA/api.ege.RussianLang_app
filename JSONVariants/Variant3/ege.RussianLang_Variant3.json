@@ -1,0 +1,19 @@
+{
+ "variantName"        : "Варинат 3",
+ "variantDescription" : "",
+ "executionTimeInSeconds" : 60,
+ "countTask" : 20,
+ "variantImages" : [{"variantSmallImg"  : "",
+                          "variantMiddleImg" : "",
+                          "variantBigImg"    : ""
+                         },
+                         {"variantSmallImg"  : "",
+                          "variantMiddleImg" : "",
+                          "variantBigImg"    : ""
+                           
+                         }],
+  "tasks" : [
+    "",
+    "",
+    ""]
+}

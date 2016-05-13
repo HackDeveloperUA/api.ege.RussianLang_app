@@ -1,0 +1,20 @@
+{
+    "taskName": "Задание 16",
+    "taskDefinition": "Расставьте знаки препинания: укажите все цифры, на месте которых в предложении должны стоять запятые.",
+    "mainText": "\n\nБоцман Егорыч (1) вообще не терпевший никаких пассажиров на судне (2) как ничего не делающих людей (3) относился весьма милостиво к Максимке, так как Максимка всегда вовремя тянул вместе со всеми снасти (4) стараясь чем-нибудь помочь другим.",
+    "noValidAnswerTotheRecord": false,
+    "pictureForNoValidAnswer": "",
+    "primaryScore": 1,
+    "onlyOneCorrectAnswer": false,
+    "expectedAnswer": "Напр: 132",
+    "answers": [
+        "1",
+        "3",
+        "4"
+    ],
+    "addPictureInTop": false,
+    "chooseAnswerFromPicker": false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection": "Введите цифры без пробелов",
+    "arrURLImageForTask": []
+}

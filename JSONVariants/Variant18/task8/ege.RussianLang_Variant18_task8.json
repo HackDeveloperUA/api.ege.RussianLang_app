@@ -1,0 +1,18 @@
+{
+    "taskName": "Задание 8",
+    "taskDefinition": "Определите слово, в котором пропущена безударная чередующаяся гласная корня. Выпишите это слово, вставив пропущенную букву.",
+    "mainText": "\n\nтр...вянистый\nоз...рять\nк...вычки\nд...кламация\nакв...рель",
+    "noValidAnswerTotheRecord": false,
+    "pictureForNoValidAnswer": "",
+    "primaryScore": 1,
+    "onlyOneCorrectAnswer": true,
+    "expectedAnswer": "Напр: плавать",
+    "answers": [
+        "озарять"
+    ],
+    "addPictureInTop": false,
+    "chooseAnswerFromPicker": false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection": "Введите слово",
+    "arrURLImageForTask": []
+}
