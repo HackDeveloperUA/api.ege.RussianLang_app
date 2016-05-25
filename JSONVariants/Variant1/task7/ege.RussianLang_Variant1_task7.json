@@ -6,6 +6,8 @@
     "pictureForNoValidAnswer": "",
     "primaryScore": 1,
     "onlyOneCorrectAnswer": false,
+    "divideTheAnswerForEachCharacter" : true,
+    "mandatorySequence" : true,
     "expectedAnswer": "Напр: 53812",
     "answers": [
         "8",
