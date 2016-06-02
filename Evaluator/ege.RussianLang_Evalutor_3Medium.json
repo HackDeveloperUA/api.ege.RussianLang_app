@@ -3,30 +3,60 @@
     {
    "phrase" : "Так себе !",
   "imagesForiPhoneDevice" : {
-                                "smallImg"  : "https://alittlebit.ru/upload/iblock/c4f/4352d137f7a645ee0e99a80bac231e4f.jpeg",
-                                "middleImg" : "https://alittlebit.ru/upload/iblock/c4f/4352d137f7a645ee0e99a80bac231e4f.jpeg",
-                                "bigImg"    : "https://alittlebit.ru/upload/iblock/c4f/4352d137f7a645ee0e99a80bac231e4f.jpeg"
+                                "smallImg"  : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Medium/6e1ec31c81478dbf36636eff8e2d989c_i-1.jpg",
+                                "middleImg" : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Medium/6e1ec31c81478dbf36636eff8e2d989c_i-1.jpg",
+                                "bigImg"    : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Medium/6e1ec31c81478dbf36636eff8e2d989c_i-1.jpg"
                             },
 
   "imagesForiPadDevice" : {
-                                "smallImg"  : "https://alittlebit.ru/upload/iblock/c4f/4352d137f7a645ee0e99a80bac231e4f.jpeg",
-                                "middleImg" : "https://alittlebit.ru/upload/iblock/c4f/4352d137f7a645ee0e99a80bac231e4f.jpeg",
-                                "bigImg"    : "https://alittlebit.ru/upload/iblock/c4f/4352d137f7a645ee0e99a80bac231e4f.jpeg"
+                                "smallImg"  : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Medium/6e1ec31c81478dbf36636eff8e2d989c_i-1.jpg",
+                                "middleImg" : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Medium/6e1ec31c81478dbf36636eff8e2d989c_i-1.jpg",
+                                "bigImg"    : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Medium/6e1ec31c81478dbf36636eff8e2d989c_i-1.jpg"
                             }
      }, 
      
       {
-   "phrase" : "Очень средний бал !",
+   "phrase" : "Бывало и лучше!",
   "imagesForiPhoneDevice" : {
-                                "smallImg"  : "http://risovach.ru/upload/2013/05/mem/moe-lico_20270329_orig_.jpeg",
-                                "middleImg" : "http://risovach.ru/upload/2013/05/mem/moe-lico_20270329_orig_.jpeg",
-                                "bigImg"    : "http://risovach.ru/upload/2013/05/mem/moe-lico_20270329_orig_.jpeg"
+                                "smallImg"  : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Medium/moe-lico_20270329_orig_.jpeg",
+                                "middleImg" : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Medium/moe-lico_20270329_orig_.jpeg",
+                                "bigImg"    : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Medium/moe-lico_20270329_orig_.jpeg"
                             },
 
   "imagesForiPadDevice" : {
-                                "smallImg"  : "http://risovach.ru/upload/2013/05/mem/moe-lico_20270329_orig_.jpeg",
-                                "middleImg" : "http://risovach.ru/upload/2013/05/mem/moe-lico_20270329_orig_.jpeg",
-                                "bigImg"    : "http://risovach.ru/upload/2013/05/mem/moe-lico_20270329_orig_.jpeg"
+                                "smallImg"  : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Medium/moe-lico_20270329_orig_.jpeg",
+                                "middleImg" : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Medium/moe-lico_20270329_orig_.jpeg",
+                                "bigImg"    : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Medium/moe-lico_20270329_orig_.jpeg"
+                            }
+     },
+
+     {
+   "phrase" : "Дружише, соберись!",
+  "imagesForiPhoneDevice" : {
+                                "smallImg"  : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Medium/villi-vonka_19756219_orig_.jpeg",
+                                "middleImg" : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Medium/villi-vonka_19756219_orig_.jpeg",
+                                "bigImg"    : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Medium/villi-vonka_19756219_orig_.jpeg"
+                            },
+
+  "imagesForiPadDevice" : {
+                                "smallImg"  : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Medium/villi-vonka_19756219_orig_.jpeg",
+                                "middleImg" : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Medium/villi-vonka_19756219_orig_.jpeg",
+                                "bigImg"    : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Medium/villi-vonka_19756219_orig_.jpeg"
+                            }
+     },
+
+      {
+   "phrase" : "Я знаю, ты можешь лучше!",
+  "imagesForiPhoneDevice" : {
+                                "smallImg"  : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Medium/voenkom_39897996_orig_.jpeg",
+                                "middleImg" : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Medium/voenkom_39897996_orig_.jpeg",
+                                "bigImg"    : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Medium/voenkom_39897996_orig_.jpeg"
+                            },
+
+  "imagesForiPadDevice" : {
+                                "smallImg"  : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Medium/voenkom_39897996_orig_.jpeg",
+                                "middleImg" : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Medium/voenkom_39897996_orig_.jpeg",
+                                "bigImg"    : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Medium/voenkom_39897996_orig_.jpeg"
                             }
      }
   ] 

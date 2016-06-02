@@ -3,27 +3,40 @@
         {
             "phrase": "Хорошо !",
             "imagesForiPhoneDevice": {
-                "smallImg": "http://risovach.ru/upload/2013/05/mem/toni-stark_19835031_big_.jpeg",
-                "middleImg": "http://risovach.ru/upload/2013/05/mem/toni-stark_19835031_big_.jpeg",
-                "bigImg": "http://risovach.ru/upload/2013/05/mem/toni-stark_19835031_big_.jpeg"
+                "smallImg"  : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Good/comics_ffff_orig_1337178146.jpg",
+                "middleImg" : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Good/comics_ffff_orig_1337178146.jpg",
+                "bigImg"    : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Good/comics_ffff_orig_1337178146.jpg"
             },
             "imagesForiPadDevice": {
-                "smallImg": "http://risovach.ru/upload/2013/05/mem/toni-stark_19835031_big_.jpeg",
-                "middleImg": "http://risovach.ru/upload/2013/05/mem/toni-stark_19835031_big_.jpeg",
-                "bigImg": "http://risovach.ru/upload/2013/05/mem/toni-stark_19835031_big_.jpeg"
+                "smallImg"  : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Good/comics_ffff_orig_1337178146.jpg",
+                "middleImg" : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Good/comics_ffff_orig_1337178146.jpg",
+                "bigImg"    : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Good/comics_ffff_orig_1337178146.jpg"
             }
         },
         {
-            "phrase": "Хорошо !",
+            "phrase": "Хорошо уровень старина!",
             "imagesForiPhoneDevice": {
-                "smallImg": "http://risovach.ru/upload/2012/05/comics_ffff_orig_1337178146.jpg",
-                "middleImg": "http://risovach.ru/upload/2012/05/comics_ffff_orig_1337178146.jpg",
-                "bigImg": "http://risovach.ru/upload/2012/05/comics_ffff_orig_1337178146.jpg"
+                "smallImg"  : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Good/toni-stark_19835031_big_.jpeg",
+                "middleImg" : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Good/toni-stark_19835031_big_.jpeg",
+                "bigImg"    : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Good/toni-stark_19835031_big_.jpeg"
             },
             "imagesForiPadDevice": {
-                "smallImg": "http://risovach.ru/upload/2012/05/comics_ffff_orig_1337178146.jpg",
-                "middleImg": "http://risovach.ru/upload/2012/05/comics_ffff_orig_1337178146.jpg",
-                "bigImg": "http://risovach.ru/upload/2012/05/comics_ffff_orig_1337178146.jpg"
+                "smallImg"  : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Good/toni-stark_19835031_big_.jpeg",
+                "middleImg" : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Good/toni-stark_19835031_big_.jpeg",
+                "bigImg"    : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Good/toni-stark_19835031_big_.jpeg"
+            }
+        },
+                {
+            "phrase": "Нормально так написал !",
+            "imagesForiPhoneDevice": {
+                "smallImg"  : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Good/toni-stark_21183523_big_.jpeg",
+                "middleImg" : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Good/toni-stark_21183523_big_.jpeg",
+                "bigImg"    : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Good/toni-stark_21183523_big_.jpeg"
+            },
+            "imagesForiPadDevice": {
+                "smallImg"  : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Good/toni-stark_21183523_big_.jpeg",
+                "middleImg" : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Good/toni-stark_21183523_big_.jpeg",
+                "bigImg"    : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Good/toni-stark_21183523_big_.jpeg"
             }
         }
     ]
