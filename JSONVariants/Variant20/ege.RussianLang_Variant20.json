@@ -3,6 +3,7 @@
  "variantDescription" : "",
  "executionTimeInSeconds" : 12600,
  "countTask" : 20,
+ "maxPrimaryBall" : 57,
  "variantImages" : [{"variantSmallImg"  : "",
                           "variantMiddleImg" : "",
                           "variantBigImg"    : ""

@@ -1,19 +1,43 @@
 {
-    "taskName": "Задание 1",
-    "taskDefinition": "Прочитайте текст и выполните задания 1–3.\n(1) Биографы Марко Поло утверждают, что он был способным, энергичным, терпеливым и наблюдательным человеком, хорошим, но увлекающимся рассказчиком. (2) Некоторые ученые подвергают сомнению факты, изложенные в его 'Книге о разнообразии мир', и высказывают мнение, что она была лишь талантливым пересказом впечатлений персидских купцов о странствиях по Востоку. (3) _____ обнаруженные неточности могли появиться при многочисленных переводах, к тому же Марко Поло диктовал свои воспоминания по памяти.\nВ каких из приведённых ниже предложений верно передана ГЛАВНАЯ информация, содержащаяся в тексте?",
-    "mainText": "1. Марко Поло был способным, энергичным, терпеливым и наблюдательным человеком, хорошим, но увлекающимся рассказчиком.\n2. Некоторые ученые, обнаружив в книге Марко Поло неточности, которые могли появиться при многочисленных переводах, сомневаются в фактах, изложенных в книге.\n3. Книга Марко Поло - талантливый пересказ впечатлений персидских купцов о странствиях по Востоку.\n4. Обнаруженные в книге Марко Поло неточности - результат многочисленных переводов.\n5. Неточности, которые могли появиться при многочисленных переводах книги Марко Поло, послужили основанием сомнений некоторых ученых в фактах, изложенных в его 'Книге о разнообразии мира'",
-    "noValidAnswerTotheRecord": false,
-    "pictureForNoValidAnswer": "",
-    "primaryScore": 1,
-    "onlyOneCorrectAnswer": false,
-    "expectedAnswer": "Напр: 241",
-    "answers": [
-        "2",
-        "5"
-    ],
-    "addPictureInTop": false,
-    "chooseAnswerFromPicker": false,
-    "arrayExpectedAnswerForPicker": [],
-    "actionDirection": "Введите без пробелов номера предложений",
-    "arrURLImageForTask" : []
+    "evaluatorModels": [
+        {
+            "phrase": "Великолепно! Оценка 5+!",
+            "imagesForiPhoneDevice": {
+                "smallImg": "http://risovach.ru/upload/2014/06/mem/belka_54187869_orig_.jpg",
+                "middleImg": "http://risovach.ru/upload/2014/06/mem/belka_54187869_orig_.jpg",
+                "bigImg": "http://risovach.ru/upload/2014/06/mem/belka_54187869_orig_.jpg"
+            },
+            "imagesForiPadDevice": {
+                "smallImg": "http://risovach.ru/upload/2014/06/mem/belka_54187869_orig_.jpg",
+                "middleImg": "http://risovach.ru/upload/2014/06/mem/belka_54187869_orig_.jpg",
+                "bigImg": "http://risovach.ru/upload/2014/06/mem/belka_54187869_orig_.jpg"
+            }
+        },
+        {
+            "phrase": "Великолепно! Оценка 5+!",
+            "imagesForiPhoneDevice": {
+                "smallImg": "http://memok.net/uploads/2014/04/24/53593b4b8d172.jpg",
+                "middleImg": "http://memok.net/uploads/2014/04/24/53593b4b8d172.jpg",
+                "bigImg": "http://memok.net/uploads/2014/04/24/53593b4b8d172.jpg"
+            },
+            "imagesForiPadDevice": {
+                "smallImg": "http://memok.net/uploads/2014/04/24/53593b4b8d172.jpg",
+                "middleImg": "http://memok.net/uploads/2014/04/24/53593b4b8d172.jpg",
+                "bigImg": "http://memok.net/uploads/2014/04/24/53593b4b8d172.jpg"
+            }
+        },
+        {
+            "phrase": "Великолепно! Оценка 5+!",
+            "imagesForiPhoneDevice": {
+                "smallImg": "http://www.otvisay.ru/uploads/posts/2015-06/1433741783_demotivatory-ege-3.jpg",
+                "middleImg": "http://www.otvisay.ru/uploads/posts/2015-06/1433741783_demotivatory-ege-3.jpg",
+                "bigImg": "http://www.otvisay.ru/uploads/posts/2015-06/1433741783_demotivatory-ege-3.jpg"
+            },
+            "imagesForiPadDevice": {
+                "smallImg": "http://www.otvisay.ru/uploads/posts/2015-06/1433741783_demotivatory-ege-3.jpg",
+                "middleImg": "http://www.otvisay.ru/uploads/posts/2015-06/1433741783_demotivatory-ege-3.jpg",
+                "bigImg": "http://www.otvisay.ru/uploads/posts/2015-06/1433741783_demotivatory-ege-3.jpg"
+            }
+        }
+    ]
 }

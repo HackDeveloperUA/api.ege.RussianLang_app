@@ -2,6 +2,7 @@
  "variantName"        : "Варинат 3",
  "variantDescription" : "",
  "executionTimeInSeconds" : 60,
+ "maxPrimaryBall" : 57,
  "countTask" : 20,
  "variantImages" : [{"variantSmallImg"  : "",
                           "variantMiddleImg" : "",

@@ -2,6 +2,7 @@
  "variantName"        : "Варинат 2",
  "variantDescription" : "",
  "executionTimeInSeconds" : 12600,
+ "maxPrimaryBall" : 57,
  "countTask" : 24,
  "variantImages" : [{"variantSmallImg"  : "",
                           "variantMiddleImg" : "",
