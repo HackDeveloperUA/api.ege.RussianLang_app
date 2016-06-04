@@ -1,7 +1,7 @@
 {
-    "titleForWeInVK": "Подписывайся на нас в",
-    "titleForMyStatistics": "Моя статистика",
-    "titleForTableBalls": "Таблица баллов ЕГЭ",
-    "linkOnWeInVK": "vk.com/okoloxcoda",
-    "linkOnTableBalls": "http:// На картинку таблица баллов"
+    "titleForWeInVK"	   : "Мы в вконтакте",
+    "titleForMyStatistics" : "Моя статистика",
+    "titleForTableBalls"   : "Таблица баллов ЕГЭ",
+    "linkOnWeInVK"		   : "https://vk.com/okoloxcoda",
+    "linkOnTableBalls"	   : "http:// На картинку таблица баллов"
 }
