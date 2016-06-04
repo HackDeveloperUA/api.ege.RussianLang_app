@@ -3,5 +3,7 @@
     "titleForMyStatistics" : "Моя статистика",
     "titleForTableBalls"   : "Таблица баллов ЕГЭ",
     "linkOnWeInVK"		   : "https://vk.com/okoloxcoda",
-    "linkOnTableBalls"	   : "http:// На картинку таблица баллов"
+    "linkOnTableBalls"	   : ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/JSON_InfoController/imageForTableBalls/IMGEGE.RusLang.TableBalls_Img1.png",
+    						  "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/JSON_InfoController/imageForTableBalls/IMGEGE.RusLang.TableBalls_Img2.png",
+    						  "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/JSON_InfoController/imageForTableBalls/IMGEGE.RusLang.TableBalls_Img3.png"]
 }
