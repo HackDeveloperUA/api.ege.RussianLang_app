@@ -78,6 +78,34 @@
      }, 
 
 
+    {
+   "phrase" : "Отнесись к ЕГЭ серьезно!",
+  "imagesForiPhoneDevice" : {
+                                "smallImg"  : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/VeryBad/7.jpg",
+                                "middleImg" : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/VeryBad/7.jpg",
+                                "bigImg"    : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/VeryBad/7.jpg"
+                            },
+
+  "imagesForiPadDevice" : {
+                                "smallImg"  : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/VeryBad/7.jpg",
+                                "middleImg" : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/VeryBad/7.jpg",
+                                "bigImg"    : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/VeryBad/7.jpg"
+                            }
+     }, 
       
+          {
+   "phrase" : "Ну ты понял, да ?!",
+  "imagesForiPhoneDevice" : {
+                                "smallImg"  : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/VeryBad/2.jpg",
+                                "middleImg" : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/VeryBad/2.jpg",
+                                "bigImg"    : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/VeryBad/2.jpg"
+                            },
+
+  "imagesForiPadDevice" : {
+                                "smallImg"  : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/VeryBad/2.jpg",
+                                "middleImg" : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/VeryBad/2.jpg",
+                                "bigImg"    : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/VeryBad/2.jpg"
+                            }
+     }
   ] 
 }

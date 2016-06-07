@@ -88,6 +88,21 @@
                                 "middleImg" : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/utka_21712949_orig_.jpeg",
                                 "bigImg"    : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/utka_21712949_orig_.jpeg"
                             }
+     },
+
+           {
+   "phrase" : "Двойку пока карандашом ! Исправишь",
+  "imagesForiPhoneDevice" : {
+                                "smallImg"  : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/3.jpg",
+                                "middleImg" : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/3.jpg",
+                                "bigImg"    : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/3.jpg"
+                            },
+
+  "imagesForiPadDevice" : {
+                                "smallImg"  : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/3.jpg",
+                                "middleImg" : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/3.jpg",
+                                "bigImg"    : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/3.jpg"
+                            }
      }
   ] 
 }
