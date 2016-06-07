@@ -1,0 +1,43 @@
+{
+    "statisticsEvaluatorModel": [
+        {
+            "phrase": "Только ЕГЭ! Только хардкор!",
+            "imagesForiPhoneDevice": {
+                "smallImg": "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Excellent/1433741783_demotivatory-ege-3.jpg",
+                "middleImg": "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Excellent/1433741783_demotivatory-ege-3.jpg",
+                "bigImg": "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Excellent/1433741783_demotivatory-ege-3.jpg"
+            },
+            "imagesForiPadDevice": {
+                "smallImg": "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Excellent/1433741783_demotivatory-ege-3.jpg",
+                "middleImg": "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Excellent/1433741783_demotivatory-ege-3.jpg",
+                "bigImg": "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Excellent/1433741783_demotivatory-ege-3.jpg"
+            }
+        },
+        {
+            "phrase": "Только ЕГЭ! Только хардкор!",
+            "imagesForiPhoneDevice": {
+                "smallImg": "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Excellent/1433741783_demotivatory-ege-3.jpg",
+                "middleImg": "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Excellent/1433741783_demotivatory-ege-3.jpg",
+                "bigImg": "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Excellent/1433741783_demotivatory-ege-3.jpg"
+            },
+            "imagesForiPadDevice": {
+                "smallImg": "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Excellent/1433741783_demotivatory-ege-3.jpg",
+                "middleImg": "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Excellent/1433741783_demotivatory-ege-3.jpg",
+                "bigImg": "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Excellent/1433741783_demotivatory-ege-3.jpg"
+            }
+        },
+        {
+            "phrase": "Только ЕГЭ! Только хардкор!",
+            "imagesForiPhoneDevice": {
+                "smallImg": "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Excellent/1433741783_demotivatory-ege-3.jpg",
+                "middleImg": "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Excellent/1433741783_demotivatory-ege-3.jpg",
+                "bigImg": "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Excellent/1433741783_demotivatory-ege-3.jpg"
+            },
+            "imagesForiPadDevice": {
+                "smallImg": "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Excellent/1433741783_demotivatory-ege-3.jpg",
+                "middleImg": "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Excellent/1433741783_demotivatory-ege-3.jpg",
+                "bigImg": "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Excellent/1433741783_demotivatory-ege-3.jpg"
+            }
+        }
+    ]
+}
